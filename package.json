@@ -1,8 +1,8 @@
 {
-  "name": "wireframe",
-  "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Wireframe",
+  "name": "Summer-Camp",
+  "version": "1.0.1",
+  "description": "A small summer project",
+  "productName": "Summer-Camp",
   "author": "Jayden",
   "type": "module",
   "private": true,
